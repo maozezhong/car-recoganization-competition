@@ -8,7 +8,7 @@
 - [cutout增强](https://arxiv.org/abs/1708.04552)
 
 ### 模型
-- [faster-rcnn pytorch(在其基础上加了resnext和densenet backbone)](https://github.com/jwyang/faster-rcnn.pytorch)
+- [faster-rcnn pytorch](https://github.com/jwyang/faster-rcnn.pytorch)
 - [retinanet keras](https://github.com/fizyr/keras-retinanet)
 - [deformable conv network](https://github.com/msracver/Deformable-ConvNets)
 - [detectron](https://github.com/facebookresearch/Detectron), detectron相关编译安装见detectron_docker文件夹中，我用的是docker安装
@@ -22,7 +22,7 @@
 - 线上0.88, 30名
 
 ### 工程文件链接
-- [faster-rcnn](https://pan.baidu.com/s/17cIPyji0NbCKrzCGyAhtJQ)
+- [faster-rcnn(在参考模型基础上加了resnext和densenet backbone)](https://pan.baidu.com/s/17cIPyji0NbCKrzCGyAhtJQ)
 - [dcn](https://pan.baidu.com/s/1CBl1uybcQxeTwBPkyN0eqQ)
 - [retinanet](https://pan.baidu.com/s/13rgBikry51jTVxb-cTOReg)
 - [DataSets](https://pan.baidu.com/s/1LsehnN-h6ZSIkTK3wnW0Yg)
